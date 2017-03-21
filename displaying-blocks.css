@@ -1,0 +1,40 @@
+#wrapper{
+background-color: tan;
+text-align: center;
+padding: 35px;
+}
+#header{
+  display: inline;
+}
+#main_content{
+  margin-top: 15px;
+}
+h1{
+  display: inline;
+}
+.img1{
+  display: inline;
+  width: 150px;
+  height: 50px;
+  background-color: white;
+}
+.column{
+  display: inline-block;
+  margin: 2.5px;
+}
+.first{
+  display: list-item;
+  width: 100px;
+  background-color: blue;
+  border: 3px solid black;
+  padding: 20px;
+  margin-bottom: 5px;
+}
+.second{
+  display: list-item;
+  width: 100px;
+  background-color: red;
+  border: 3px solid black;
+  padding: 20px;
+  margin-bottom: 5px;
+}
