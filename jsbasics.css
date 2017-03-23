@@ -1,0 +1,47 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#title, #navbar, #description, #footnote{
+  margin: 10px;
+  padding: 15px;
+  border-radius: 20px;
+}
+#wrapper{
+  background-color: darkblue;
+  padding: 10px;
+}
+#title{
+  background-color: red;
+  color: silver;
+}
+#navbar{
+  background-color: teal;
+  color: cyan;
+  display: inline-block;
+  width: 15%;
+  float: left;
+}
+#description{
+  background-color: black;
+  display: inline-block;
+  color: silver;
+  width: 70%;
+  align: right;
+}
+#footnote{
+  background-color: grey;
+  color: silver;
+}
+.green{
+  color: cyan;
+}
+.blue{
+  color: #2196F3;
+}
+ul li{
+  margin-left: 20px;
+}
+#double{
+  margin-left: 20px;
+}
